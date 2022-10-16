@@ -6,7 +6,7 @@
 
 * 날짜 : 2022년 12월 10일 11시 00분
 * 장소 : 서울특별시 광진구 광나루로56길 85 테크노마트 3층 아모르홀
-* 청첩장 url : https://andersonchoi.github.io/wedding-card/
+* 청첩장 url : 
 
 ## 축하의 말
 
